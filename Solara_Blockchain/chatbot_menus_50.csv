@@ -1,0 +1,42 @@
+question,answer,tags,context
+What is Solara?,Solara is a blockchain platform that allows users to buy, sell, and manage energy tokens representing Hydro, Solar, and Wind energy.,overview,project basics
+Tell me about Solara,Solara allows trading of three types of energy tokens (Hydro, Solar, Wind) securely on the blockchain.,overview,project basics
+How does Solara work?,Solara uses blockchain technology to enable secure and transparent trading of energy tokens.,overview,project basics
+What types of energy tokens are available?,Solara offers Hydro, Solar, and Wind energy tokens.,features,energy tokens
+How can I buy energy tokens?,You can buy energy tokens via your wallet using supported payment methods.,transactions,energy tokens
+How can I sell energy tokens?,Select the energy token you own, choose the sell option, and confirm the transaction.,transactions,energy tokens
+Can I trade energy tokens?,Yes, you can trade Hydro, Solar, and Wind tokens with other users on Solara.,transactions,energy tokens
+How to check token prices?,Token prices are updated in real-time in your wallet or the Solara dashboard.,features,energy tokens
+How do I create a Solara account?,Visit the signup page, fill in your details, and verify your email.,account,user onboarding
+Do I need an email to sign up?,Yes, an email is required to verify your account.,account,user onboarding
+How do I login?,Go to the login page and enter your credentials.,account,user onboarding
+Can I reset my password?,Yes, click 'Forgot Password' on the login page to reset it.,account,user onboarding
+How do I view my token balance?,Your wallet dashboard displays the balance of each energy token.,features,wallet
+Can I transfer tokens to other users?,Yes, enter the recipient's wallet address and token amount to transfer.,transactions,token management
+Is Solara decentralized?,Yes, Solara operates on a decentralized blockchain network.,overview,project basics
+Who can access my wallet?,Only you can access your wallet using your private key.,security,protection
+Can I recover my wallet?,Yes, using your recovery phrase you can restore your wallet.,security,protection
+What happens if I lose my private key?,Losing your private key without a recovery phrase means losing access to your tokens.,security,protection
+How to stake energy tokens?,Go to the staking section, select the type and amount of token to stake, and confirm.,features,rewards
+Can I earn rewards by staking?,Yes, staking energy tokens provides periodic rewards depending on the token type.,features,rewards
+Which tokens are better to stake?,Rewards vary for Hydro, Solar, and Wind tokens. Check staking rates on the dashboard.,features,rewards
+Can I cancel a transaction?,No, once confirmed on the blockchain, transactions cannot be reversed.,transactions,token management
+How to check transaction history?,All transactions are recorded in your wallet’s transaction history.,transactions,token management
+How secure is Solara?,Solara uses encryption and blockchain security to protect your assets.,security,protection
+Can I use Solara globally?,Yes, Solara is accessible worldwide except in regions with legal restrictions.,overview,project basics
+Which cryptocurrencies are supported?,Solara accepts its native token and selected cryptocurrencies for buying energy tokens.,features,transactions
+How to update my profile?,Go to profile settings to update your personal details.,account,user onboarding
+Can I delete my account?,Yes, submit a request via the support section.,account,user onboarding
+How to contact support?,Email support@solara.com or visit the Solara Help Center.,support,faq
+Where to get help?,Visit the Solara Help Center for guides and FAQs.,support,faq
+Can I participate in governance?,Yes, token holders can vote on platform proposals and upgrades.,features,project basics
+How is voting power determined?,Voting power is based on the number of tokens you hold or stake.,features,rewards
+Can I delegate my voting power?,Yes, you can delegate your voting rights to another token holder.,features,rewards
+Is there a roadmap?,Yes, Solara publishes its roadmap on the website and developer portal.,overview,project basics
+Does Solara charge fees?,Yes, small blockchain transaction fees apply when trading or transferring tokens.,transactions,token management
+How to backup my wallet?,Use your recovery phrase to securely backup your wallet.,security,protection
+Which devices are compatible?,Solara supports iOS, Android, and modern web browsers.,features,project basics
+Is there a mobile app?,Yes, Solara has a fully functional mobile app.,features,project basics
+Can I connect Solara to MetaMask?,Yes, external wallets like MetaMask are supported for token transactions.,features,wallet
+How to check system status?,Visit the Solara status page to see real-time updates.,support,faq
+What happens during maintenance?,Some features may be temporarily unavailable during maintenance periods.,support,faq
