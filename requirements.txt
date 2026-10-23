@@ -1,0 +1,41 @@
+# Flask & API
+
+Flask
+
+flask-cors
+
+
+
+# Data Processing & Math
+
+numpy
+
+pandas
+
+
+
+# Image & OCR Processing
+
+Pillow
+
+pytesseract
+
+opencv-python
+
+
+
+# ML / AI / Vector Search
+
+torch
+
+transformers
+
+sentence-transformers
+
+faiss-cpu
+
+
+
+# GUI Framework
+
+PyQt5
